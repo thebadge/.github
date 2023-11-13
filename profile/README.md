@@ -41,9 +41,9 @@ For example, an online courses platform could become a third-party entity of The
 #### These are just a few of many badges that you could get
 
 <div align="center">
-  <img alt="decorative-image-1" loading="lazy" width="190" height="300" decoding="async" data-nimg="1" style="color:transparent" src="https://www.thebadge.xyz/_next/static/media/diploma-cert.10663c33.webp">
-  <img alt="decorative-image-2" loading="lazy" width="190" height="300" decoding="async" data-nimg="1" style="color:transparent" src="https://www.thebadge.xyz/_next/static/media/iso-cert.194d83a1.webp">
-  <img alt="decorative-image-3" loading="lazy" width="190" height="300" decoding="async" data-nimg="1" style="color:transparent" src="https://www.thebadge.xyz/_next/static/media/howey-test.7dbdf3e8.webp">
+  <img alt="decorative-image-1" loading="lazy" width="190" height="300" decoding="async" data-nimg="1" style="color:transparent" src="https://www.thebadge.xyz/_next/static/media/diploma-cert.f3edc7fd.webp">
+  <img alt="decorative-image-2" loading="lazy" width="190" height="300" decoding="async" data-nimg="1" style="color:transparent" src="https://www.thebadge.xyz/_next/static/media/iso-cert.9f35c8a2.webp">
+  <img alt="decorative-image-3" loading="lazy" width="190" height="300" decoding="async" data-nimg="1" style="color:transparent" src="https://www.thebadge.xyz/_next/static/media/howey-test.d1e9d244.webp">
 </div>
 
 ## Visit our repos 
