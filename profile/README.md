@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://thebadge.xyz">
-    <img alt="TheBadge" src="https://github.com/thebadge/.github/assets/109972564/322f25f3-f55f-4503-9dda-dbf938a66e0f" width="128">
+    <img alt="TheBadge" src="https://www.thebadge.xyz/the_badge_icon.png" width="128">
   </a>
 </p>
 
