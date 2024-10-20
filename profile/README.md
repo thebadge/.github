@@ -11,7 +11,7 @@ TheBadge Labs is an umbrella company dedicated to creating innovative blockchain
 
 [TheBadge Certifications](#What-is-TheBadge-Certifications): A decentralized certification platform designed to bring transparency and trust to various industries.
 
-[OpenAgro](): A protocol for tokenizing agricultural assets, enabling farmers to access financing and investors to participate in commodity trading through blockchain technology.
+[OpenAgro](#opengrano): A protocol for tokenizing agricultural assets, enabling farmers to access financing and investors to participate in commodity trading through blockchain technology.
 
 # TheBadge: Decentralized Certification Platform
 
