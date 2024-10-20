@@ -9,9 +9,9 @@
 ## TheBadge Labs
 TheBadge Labs is an umbrella company dedicated to creating innovative blockchain-based solutions. Our projects include:
 
-[TheBadge Certifications](#What-is-TheBadge-Certifications): A decentralized certification platform designed to bring transparency and trust to various industries.
+[TheBadge Certifications](#what-is-thebadge-certifications): A decentralized certification platform designed to bring transparency and trust to various industries.
 
-[OpenAgro](#opengrano): A protocol for tokenizing agricultural assets, enabling farmers to access financing and investors to participate in commodity trading through blockchain technology.
+[OpenGrano](#how-it-works): A protocol for tokenizing agricultural assets, enabling farmers to access financing and investors to participate in commodity trading through blockchain technology.
 
 # TheBadge: Decentralized Certification Platform
 
@@ -48,13 +48,19 @@ For example, an online courses platform could become a third-party entity of The
 #### These are just a few of many badges that you could get
 
 <div align="center">
-  <img alt="decorative-image-1" loading="lazy" width="190" height="300" decoding="async" data-nimg="1" style="color:transparent" src="https://www.thebadge.xyz/_next/static/media/diploma-cert.f3edc7fd.webp">
-  <img alt="decorative-image-2" loading="lazy" width="190" height="300" decoding="async" data-nimg="1" style="color:transparent" src="https://www.thebadge.xyz/_next/static/media/iso-cert.9f35c8a2.webp">
-  <img alt="decorative-image-3" loading="lazy" width="190" height="300" decoding="async" data-nimg="1" style="color:transparent" src="https://www.thebadge.xyz/_next/static/media/howey-test.d1e9d244.webp">
+  <img alt="decorative-image-1" loading="lazy" width="190" height="300" decoding="async" data-nimg="1" style="color:transparent" src="https://www.thebadge.xyz/_next/image?url=%2Fassets%2Fbadges%2Fen%2Fdiploma-cert.webp&w=640&q=75">
+  <img alt="decorative-image-2" loading="lazy" width="190" height="300" decoding="async" data-nimg="1" style="color:transparent" src="https://www.thebadge.xyz/_next/image?url=%2Fassets%2Fbadges%2Fen%2Fiso-cert.webp&w=640&q=75">
+  <img alt="decorative-image-3" loading="lazy" width="190" height="300" decoding="async" data-nimg="1" style="color:transparent" src="https://www.thebadge.xyz/_next/image?url=%2Fassets%2Fbadges%2Fen%2Fhowey-test.webp&w=640&q=75">
 </div>
 
+---
 
-# OpenGrano
+
+<p align="center" id="OpenGrano">
+  <a href="https://thebadge.xyz">
+    <img alt="TheBadge" src="https://opengrano.com/logo.svg" width="300">
+  </a>
+</p>
 
 OpenGrano is a groundbreaking protocol designed to tokenize agricultural assets, revolutionizing the way farmers access loans and how web3 investors engage in the agricultural commodities market. By leveraging blockchain technology, OpenGrano ensures transparency, security, and efficiency in funding agricultural ventures, empowering farmers and opening up new investment opportunities.
 
@@ -77,4 +83,6 @@ OpenGrano is a groundbreaking protocol designed to tokenize agricultural assets,
 [![@thebadge/ui-lib](https://svg.bookmark.style/api?url=https://github.com/thebadge/thebadge-ui-library&mode=dark&style=horizontal)](https://github.com/thebadge/thebadge-ui-library)
 
 [![@thebadge/quill-to-pdf](https://svg.bookmark.style/api?url=https://github.com/thebadge/quill-to-pdf&mode=dark&style=horizontal)](https://github.com/thebadge/quill-to-pdf)
+
+OpenGrano Repos commings soon!! 🌽 🚀
 
